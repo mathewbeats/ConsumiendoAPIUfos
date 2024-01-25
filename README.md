@@ -5,7 +5,7 @@
 
 
 ## Descripción
-Este proyecto es una aplicación de consola en C# que consume una API REST sobre avistamientos de ovnis. La API ha sido creada y publicada en Azure, proporcionando un conjunto de datos sobre varios eventos de ovnis reportados alrededor del mundo. Este proyecto es ideal para aquellos que buscan practicar y aprender sobre el consumo de APIs REST en C#, así como para los entusiastas del fenómeno OVNI.
+Este proyecto es una aplicación de consola en C# que consume una API REST sobre avistamientos de ovnis. La API ha sido creada y publicada en Azure por mi (podras encontrar el repositorio de la api en mis repositorios subidos), proporcionando un conjunto de datos sobre varios eventos de ovnis reportados alrededor del mundo. Este proyecto es ideal para aquellos que buscan practicar y aprender sobre el consumo de APIs REST en C#, así como para los entusiastas del fenómeno OVNI.
 
 ## Características
 Consumo de API REST: La aplicación consume una API REST que he desarrollado y desplegado en Azure.
